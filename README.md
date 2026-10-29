@@ -20,3 +20,4 @@
 Документація щодо вимог до системи обліку оренди обладнання знаходиться у директорії `/requirements`:
 * [Специфікація вимог (SRS)](requirements/srs.md)
 * [Беклог (User Stories)](requirements/backlog.md)
+* [Технічне завдання](requirements/tech_zavdannya.md)
