@@ -21,3 +21,4 @@
 * [Специфікація вимог (SRS)](requirements/srs.md)
 * [Беклог (User Stories)](requirements/backlog.md)
 * [Технічне завдання](requirements/tech_zavdannya.md)
+* [Дорожня карта проєкту](requirements/iterations.md)
